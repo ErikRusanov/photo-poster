@@ -35,7 +35,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://gitlab.com/erik.rusanov.03/photo-poster.git](https://github.com/ErikRusanov/photo-poster.git)
+git clone https://gitlab.com/erik.rusanov.03/photo-poster.git
 cd photo-poster
 ```
 
