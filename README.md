@@ -2,7 +2,7 @@
 
 Сервис для генерации постов в Telegram с использованием ИИ для создания подписей к изображениям.
 
-![Preview Image](image.png)
+![Preview Image](preview.png)
 
 ## Возможности
 
